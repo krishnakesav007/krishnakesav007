@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @krishnakesav007
+- 👋 Hi, I’m @kesavkrishna amirineni
 - 👀 I’m interested in programming language 
-- 🌱 I’m currently learning core java 
+- 🌱 I’m currently learning springbooy framework 
 - 💞️ I’m looking to collaborate on java projects 
 - 📫 How to reach me krishnakesav143@gmail.com
 

@@ -41,8 +41,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnprakash2108&theme=merko&show_icons=true" height="180px"/>
-  <img src="https://streak-stats.demolab.com?user=johnprakash2108&theme=merko&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnakesav007&theme=merko&show_icons=true" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=krishnakesav007&theme=merko&hide_border=true" height="180px"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnprakash2108&theme=radical&no-bg=true&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=krishnakesav007&theme=radical&no-bg=true&no-frame=true&column=6" />
 </p>
 
 ---

@@ -6,8 +6,9 @@
 <h1 align="center">Hey, I'm Kesava Krishna Amirineni 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+%F0%9F%9A%80+React.js+%7C+Next.js+%7C+React+Native;Backend+%E2%9A%99%EF%B8%8F+Spring+Boot+%7C+Django+%7C+Node.js;Always+Learning+%F0%9F%93%9A+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+%F0%9F%9A%80+React.js+%7C+CSS+%7C+JavaScript;Backend+%E2%9A%99%EF%B8%8F+Spring+Boot+%7C+Django+%7C+Node.js;Always+Learning+%F0%9F%93%9A+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 
 ---
 

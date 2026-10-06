@@ -6,19 +6,29 @@
 <h1 align="center">Hey, I'm Kesava Krishna Amirineni 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+%F0%9F%9A%80+React.js+%7C+CSS+%7C+JavaScript;Backend+%E2%9A%99%EF%B8%8F+Spring+Boot+%7C+Django+%7C+Node.js;Always+Learning+%F0%9F%93%9A+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=ServiceNow+Developer+%E2%9A%99%EF%B8%8F;ITSM+%7C+CMDB+%7C+CSDM+%7C+Flow+Designer;Full+Stack+%2B+Cloud+Computing+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💻 Passionate about Full Stack Development, Java, and Cloud Computing
-- ☁️ AWS Certified with hands-on projects like S3 Static Hosting with CloudFront
-- 🧑‍🎓 B.Tech CSES @ SRKR Engineering College
-- 🚀 Worked on projects like Tourism Package, Movie Recommender, and PPT Generator Agent AI
-- 🧠 Currently learning DSA, Springboot, System Design
+- ⚙️ **ServiceNow Developer** skilled in **ITSM, CMDB, CSDM, Service Catalog, and Flow Designer**
+- 💻 Experienced in scripting (**Business Rules, Client Scripts, Script Includes, REST APIs**) & Platform Customization
+- ☁️ **Certified** in **ServiceNow CIS-DF, AWS, and Oracle Cloud Infrastructure (OCI)**
+- 🧑‍🎓 B.Tech in Computer Science & Business Systems @ **SRKR Engineering College**
+- 🚀 Freelance experience reducing manual ticket routing efforts through ServiceNow workflow automation
+- 🧠 Currently expanding expertise in System Design, ServiceNow Integrations, and Enterprise Architecture
+
+---
+
+### 🏆 Certifications
+
+- 🏅 **ServiceNow CIS-DF** (CMDB & CSDM)
+- 🏅 **ServiceNow Micro-Certification**: Flow Designer
+- 🏅 **AWS Cloud Certification** (NIELIT)
+- 🏅 **Oracle Cloud Infrastructure (OCI)** Foundations Associate
+- 🏅 **Java Fundamentals** (Infosys Springboard)
 
 ---
 
@@ -33,8 +43,28 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,java,python,nodejs,express,django,mongodb,mysql,figma,androidstudio,firebase,github,vscode&theme=dark" />
+  <b>ServiceNow Platform & Tools</b><br/>
+  <img src="https://img.shields.io/badge/ServiceNow-032D42?style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ITSM-0072C6?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flow_Designer-4CAF50?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMDB%20%26%20CSDM-FF9800?style=for-the-badge" />
 </p>
+
+<p align="center">
+  <b>Languages & Cloud Tech</b><br/>
+  <img src="https://skillicons.dev/icons?i=js,java,python,aws,react,nextjs,tailwind,nodejs,express,django,mongodb,mysql,postman,github,vscode,figma&theme=dark" />
+</p>
+
+---
+
+### 🧠 Projects & Implementations
+
+| 🚀 Project | Tech Stack | Key Highlights |
+|---|---|---|
+| **ITSM Implementation** | ServiceNow ITSM, JavaScript, Flow Designer, Service Portal | Automated incident routing (40% reduction in manual effort), configured SLA breach notifications & custom Service Portal. |
+| **Employee Onboarding Task Tracker** | Flow Designer, ServiceNow Apps, Business Rules, ACLs | Automated onboarding tasks, implemented role-based access control, generated real-time dashboards & reports. |
+| **PPT Generator Agent AI** | Python, Gemini AI, Pexels API | AI agent that generates content using Gemini AI, fetches context images, and generates PPT files automatically. |
+| **AI Yoga Tutor** | React Native, PoseNet | Real-time posture detection and audio feedback system. |
 
 ---
 
@@ -55,22 +85,10 @@
 
 ---
 
-### 🧠 Projects & Hackathons
-
-| 🚀 Project | Tech | Highlights |
-|--|--|--|
-| Moive Recommended System | Python, Flask,HTML, CSS | Recommended similar kind of moive  what you search |
-| PPT Generator Agent AI | Python | its generate content form gemini ai, takes the images from the pexels,generate ppt files |
-| AI Yoga Tutor | React Native, PoseNet | Posture detection, audio feedback |
-
----
-
 ### 🔥 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/213876685-4e82f6cd-3f3e-42aa-90c3-641d35f3e6ec.gif" width="500"/>
 </p>
 
 ---
@@ -86,8 +104,8 @@
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:krishnakesav143@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="{https://www.linkedin.com/in/kesava-krishna-amirineni-2b6b66255/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:krishnakesav.amirineni@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kesava-krishna-amirineni"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/krishnakesav007"><img src="https://img.shields.io/badge/-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 

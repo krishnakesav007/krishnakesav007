@@ -105,7 +105,7 @@
 
 <p align="center">
   <a href="mailto:krishnakesav.amirineni@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kesava-krishna-amirineni"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kesava-krishna-amirineni-2b6b66255/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/krishnakesav007"><img src="https://img.shields.io/badge/-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
